@@ -43,7 +43,7 @@ Choose either a single file to parse (-f) or an entire directory(-d),which will 
 
 ####More Information
 
-View the blog post at http://az4n6.blogspot.com for more information
+View the blog post at http://az4n6.blogspot.com/2014/07/safari-and-iphone-internet-history.html for more information
 
 
 Email Mari > arizona4n6 at gmail dot com for help/questions/bugs
