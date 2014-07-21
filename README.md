@@ -4,7 +4,7 @@ Safari-Internet-History-Parser
 This will parse the Safari Internet History located under /Users/%username%/Libary/Safari/.
 The files it can parse are: History.plist, Downloads.plist, Bookmarks.plist and TopSites.plist.
 It will also parse the History.plist from an iPhone, the Bookmarks.db file, and the RecentSearches.plist.
-Choose either a single file to parse (-f) or an entire directory,which will process all files located in it.
+Choose either a single file to parse (-f) or an entire directory(-d),which will process all files located in it.
 
 ####Required Library 
   Install the biplist on Linux/OS X using:
